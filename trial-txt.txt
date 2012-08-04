@@ -1,8 +1,6 @@
 Hello Jacob!
 Hi
 Howdy! Stranger
-<<<<<<< HEAD
 Hala
-=======
 Adodo
->>>>>>> testing
+Add Contact
