@@ -3,4 +3,9 @@ Hi
 Howdy! Stranger
 Hala
 Adodo
+<<<<<<< HEAD
 Add Blog
+=======
+Add Contact
+Add About us
+>>>>>>> contact
