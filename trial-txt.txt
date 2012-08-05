@@ -3,5 +3,6 @@ Hi
 Howdy! Stranger
 Hala
 Adodo
+Add Blog
 Add About Us
-Add Contact
+Add Contact Us
