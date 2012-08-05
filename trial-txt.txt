@@ -5,4 +5,8 @@ Hala
 Adodo
 Add Blog
 Add About Us
+<<<<<<< HEAD
 Add Contact
+=======
+Add Contact Us
+>>>>>>> contact
